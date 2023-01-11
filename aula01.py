@@ -1,7 +1,7 @@
 # variáveis = espaços nomeados da memória do computador
 # dados são guardados nas variáveis
 # o valor das variáveis pode mudar, por isso "variável"
-nome = "Sr Bokomoko"
+nome = "Sr fulano"
 placa = "PEO8227"
 idade = 238 
 print("Bem vindo" , nome, "que tem" , idade, "anos" )
